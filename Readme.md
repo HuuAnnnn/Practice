@@ -6,3 +6,5 @@ The repository stores my practice Notebooks for Deep learning. I use the two mai
 The list of practice files:
   + CORA Classification based on GNNs: [here](./Practices/Practice1.ipynb)
   + Fake News detection based on social network: [here](./Practices/Practice2.ipynb)
+  + Updating soon...
+  + Traffic speed forecasting: [here](./Practices/Practice4.ipynb)
